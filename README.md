@@ -75,5 +75,3 @@ Bar charts compare performance in:
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/power-bi-project-justit/blob/main/Power%20BI%20Dashboard.png" width="1000"/></a>
 
 ---
-
-Built using Microsoft Power BI as part of a data analytics project to demonstrate data storytelling and interactive visualization skills.
