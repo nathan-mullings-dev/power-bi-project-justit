@@ -68,6 +68,6 @@ Bar charts compare performance in:
 
 ## 📸 Dashboard Preview
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/power-bi-project-justit/blob/main/Power%20BI%20Dashboard.png" width="1250"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/power-bi-project-justit/blob/main/Power%20BI%20Dashboard.png" width="1500"/></a>
 
 ---
