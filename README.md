@@ -72,8 +72,7 @@ Bar charts compare performance in:
 
 ## 📸 Dashboard Preview
 
-> ![Sales Dashboard](./Screenshot%202025-04-15%20at%2016.43.16.png)
-
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/power-bi-project-justit/blob/main/Power%20BI%20Dashboard.png" width="1000"/></a>
 
 ---
 
