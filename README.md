@@ -66,6 +66,18 @@ Bar charts compare performance in:
 
 ---
 
+## 🎓 Learning Outcomes
+
+Through building this dashboard, I developed key analytical and data visualization skills, including:
+
+- 📊 Designing complex Tableau dashboards using diverse chart types like treemaps, bubble charts, maps, and bar graphs
+- 🌍 Integrating spatial data using **Mapbox** and **OpenStreetMap** for geolocation insights
+- 🔍 Identifying trends in employment change across multiple sectors and regions
+- 🧠 Enhancing storytelling through interactive filters and well-structured layout design
+- 📈 Translating raw employment data into meaningful insights to support real-world business and policy decisions
+
+---
+
 ## 📸 Dashboard Preview
 
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/power-bi-project-justit/blob/main/Power%20BI%20Dashboard.png" width="1500"/></a>
