@@ -1,8 +1,4 @@
-# Power BI Project | JustIT
-
----
-
-## 📊 Power BI Sales Dashboard Project
+# 📊 Power BI Sales Dashboard Project | JustIT
 
 ---
 
