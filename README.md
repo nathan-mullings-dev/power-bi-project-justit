@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Dashboard Project | JustIT
+# 📊 Power BI Sales Dashboard Project | Just IT's Data Skills Bootcamp.
 
 ---
 
