@@ -4,7 +4,7 @@
 
 ## 📝 Project Proposal
 
-This project aims to analyze sales and profit trends using Power BI, focusing on product categories, regional performance, and temporal sales evolution. The dashboard is designed to assist stakeholders in understanding how different segments, time periods, and geographical locations influence business performance.
+This project uses the Sales Dataset with the aim to analyze sales and profit trends using Power BI, focusing on product categories, regional performance, and temporal sales evolution. The dashboard is designed to assist stakeholders in understanding how different segments, time periods, and geographical locations influence business performance.
 
 ### Objectives:
 - Visualize **total sales by category and segment** to identify top-performing areas.
